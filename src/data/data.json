@@ -1,0 +1,110 @@
+{
+  "organization": {
+    "name": "CCAP",
+    "fullName": "Colegio de Contadores y Auditores de Pichincha",
+    "slogan": "El gremio contable más representativo del Ecuador",
+    "description": "Institución gremial que agrupa a contadores y auditores de la provincia de Pichincha, impulsando el desarrollo profesional, la ética y la excelencia en las ciencias contables.",
+    "founded": "1943",
+    "members": "5000+",
+    "courses": "200+",
+    "years": "80+",
+    "location": "Quito, Ecuador",
+    "address": "Iñaquito N37-219 y Villalengua, Quito, Ecuador",
+    "phone": "+593 2 246-8756",
+    "email": "informativo@ccap.org.ec",
+    "website": "https://ccap.org.ec",
+    "social": {
+      "facebook": "https://www.facebook.com/CCAPEcuador",
+      "youtube": "https://www.youtube.com/@ccppecuador",
+      "linkedin": "https://ec.linkedin.com/company/ccppecuador"
+    }
+  },
+  "services": [
+    {
+      "id": 1,
+      "icon": "GraduationCap",
+      "title": "Capacitación Profesional",
+      "description": "Cursos, seminarios y diplomados en contabilidad, tributación, auditoría y NIIF con instructores de alto nivel.",
+      "features": ["Cursos presenciales y virtuales", "Certificados avalados", "200+ temas disponibles"]
+    },
+    {
+      "id": 2,
+      "icon": "FileText",
+      "title": "Oferta Académica",
+      "description": "Programas especializados: Escuela de Asistentes Contables y Escuela de Expertos Tributarios para dominar las finanzas empresariales.",
+      "features": ["Escuela de Asistentes Contables", "Escuela de Expertos Tributarios", "Modalidad intensiva y regular"]
+    },
+    {
+      "id": 3,
+      "icon": "Users",
+      "title": "Afiliación Gremial",
+      "description": "Únete a más de 5,000 profesionales. Accede a beneficios exclusivos, networking y representación profesional.",
+      "features": ["Carnet profesional", "Descuentos en cursos", "Red de contactos"]
+    },
+    {
+      "id": 4,
+      "icon": "BookOpen",
+      "title": "Biblioteca Digital",
+      "description": "Acceso a publicaciones, revista institucional, boletines tributarios y recursos técnicos actualizados.",
+      "features": ["Revista institucional", "Boletines tributarios", "Acceso 24/7"]
+    },
+    {
+      "id": 5,
+      "icon": "Monitor",
+      "title": "Campus Virtual",
+      "description": "Plataforma e-learning con cursos en línea, evaluaciones y certificaciones desde cualquier dispositivo.",
+      "features": ["LMS especializado", "Acceso multiplataforma", "Soporte técnico"]
+    },
+    {
+      "id": 6,
+      "icon": "Award",
+      "title": "Consultoría Técnica",
+      "description": "Asesoría especializada en normativa contable, tributaria y laboral vigente para empresas y profesionales.",
+      "features": ["NIIF y NEC", "Asesoría tributaria", "Normativa laboral"]
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "date": "Junio 2026",
+      "title": "Business Summit Contadores 2026",
+      "description": "Seminario Interamericano Regional - El encuentro más importante del gremio contable latinoamericano",
+      "venue": "Hotel Sheraton Quito",
+      "type": "summit"
+    },
+    {
+      "id": 2,
+      "date": "Julio 2026",
+      "title": "Diplomado en NIIF Avanzadas",
+      "description": "Programa intensivo de 40 horas sobre Normas Internacionales de Información Financiera",
+      "venue": "Sede CCAP",
+      "type": "course"
+    },
+    {
+      "id": 3,
+      "date": "Agosto 2026",
+      "title": "Foro: Reforma Tributaria 2026",
+      "description": "Análisis y aplicación práctica de los cambios en la legislación tributaria ecuatoriana",
+      "venue": "Auditorio Principal",
+      "type": "forum"
+    }
+  ],
+  "stats": [
+    { "value": "80+", "label": "Años de Trayectoria" },
+    { "value": "5000+", "label": "Profesionales Afiliados" },
+    { "value": "200+", "label": "Cursos Anuales" },
+    { "value": "98%", "label": "Satisfacción de Socios" }
+  ],
+  "design": {
+    "colors": {
+      "primary": "#0a1628",
+      "secondary": "#162d5e",
+      "accent": "#cc2222",
+      "gold": "#d4a017"
+    },
+    "typography": {
+      "heading": "Playfair Display",
+      "body": "Inter"
+    }
+  }
+}
